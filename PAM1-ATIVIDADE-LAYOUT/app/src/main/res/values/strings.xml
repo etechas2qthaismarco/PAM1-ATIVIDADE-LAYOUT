@@ -6,5 +6,9 @@
     <string name="selecione">Selecione</string>
     <string name="descricao">Descrição:</string>
     <string name="local">Local:</string>
-    <string name="salvar">Salvar:</string>
+    <string name="salvar">Salvar</string>
+    <string name="data1">Data 1:</string>
+    <string name="data2">Data 2:</string>
+    <string name="botao1">B1</string>
+    <string name="botao2">B2</string>
 </resources>
